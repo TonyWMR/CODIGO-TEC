@@ -1,0 +1,316 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(13, 44, 49);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: solid;
+    height: 100vh;
+    
+    
+}
+
+.title-principal {
+    display: flex;
+    
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+    
+.container {
+    
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+    gap: 10px;
+    
+    flex-wrap: wrap;
+    
+    
+
+}
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+    
+
+.title {
+    display: flex;
+    margin-top: 20px;
+    font-size: 15px;
+    justify-content: space-between;
+    color:  rgba(173, 173, 180, 0.945);
+   
+}   
+
+
+
+    
+.wallpaper {
+    
+    font-family: monospace, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    background: transparent;
+    border: none;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+    color: rgba(173, 173, 180, 0.945);;
+}
+
+.search {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(34, 34, 36, 0.945);
+    padding: 10px;
+    border-radius: 12px;
+    gap: 20px;
+
+
+}
+
+.search input {
+    flex-grow: 1;
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    color: #fff;
+    font-family: monospace, sans-serif;
+    
+}
+
+::placeholder {
+    color: #fff;
+    font-family: monospace, sans-serif;
+}
+
+input:focus {
+    outline: none;
+}
+
+.search button {
+    border: none;
+    color: #fff;
+    font-family: monospace, sans-serif;
+    background-color:  rgba(18, 18, 34, 0.945);
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.result {
+    display: flex;
+    background-color:  rgba(34, 34, 36, 0.945);
+    padding: 30px;
+    border-radius: 12px;
+    margin-top: 20px;
+    width: 100vh;
+    height: 250px;
+    gap: 30px;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.profile {
+    flex-grow: 1;
+}
+
+.profile-title {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between;
+    
+}
+
+h3 {
+    color:  rgb(117, 117, 128);;
+}
+
+.username {
+    color:  rgb(117, 117, 128);
+    margin-top: 5px;
+    
+}
+
+.date {
+    color: #ccc;
+    font-size: 13px;
+}
+
+.about {
+    margin-top: 25px;
+    color: #ccc;
+
+}
+
+.stats {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(24, 19, 19);
+    
+    margin-top: 20px;
+    border-radius: 8px;
+    padding: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+    
+    
+
+
+
+h6 {
+    color:  rgb(117, 117, 128);
+    font-size: 15px;
+}
+
+p {
+    color:  rgb(117, 117, 128);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.social {
+    margin-top: 20px;
+    
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
+    gap: 20px;
+}
+
+.social span {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color:  rgb(117, 117, 128);
+    
+}
+
+.Goku {
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    
+    
+    
+}
+
+.Vegeta {
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.Gohan {
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.Broly {
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+ 
+
+
+
+
+    
+    
+
+    
+
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+
+
+
+    
+
+    
+    
+    
+    
+
+
+
+    
+
+    
+
+    
+ 
+    
+    
+    
+    
+    
+    
+    
+
+
+    
+
+    
+    
+    
+
+
+    
+    
+    
+    
+    
+    
+
+
+    
+    
+
+    
+
+
+    
+    
+
+    
+    
+    
+
+
